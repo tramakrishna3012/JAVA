@@ -1,0 +1,1 @@
+Welcome to Program No. 12. This is an example of Java program to write file using ByteStream.
